@@ -1,0 +1,15 @@
+{
+    "name": "juniorpaiva/app-poligonos",
+    "description": "LSP",
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Junior Paiva"
+        }
+    ],
+    "require": {}
+}

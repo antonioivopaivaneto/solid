@@ -1,0 +1,14 @@
+{
+    "name": "junior/paiva",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junior"
+        }
+    ],
+    "require": {}
+}

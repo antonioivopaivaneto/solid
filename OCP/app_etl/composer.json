@@ -1,0 +1,20 @@
+{
+    "name": "junior_paiva/app_etl",
+    "autoload": {
+        "psr-4": {
+            "JuniorPaiva\\AppEtl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junior",
+            "email": "antonioivo.3@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    }
+}
