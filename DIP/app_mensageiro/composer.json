@@ -1,0 +1,15 @@
+{
+    "name": "junior/app_mensageiro",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "junior",
+            "email": "antonioivo.3@gmail.com"
+        }
+    ],
+    "require": {}
+}
